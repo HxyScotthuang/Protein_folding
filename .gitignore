@@ -1,0 +1,10 @@
+Feature_generation/*
+!Feature_generation/*.ipynb
+test_data/*
+test_hist/*
+pdbfiles_unzipped
+ProteinPDB/*
+model/*
+**.npy
+test_data/*.npy
+T1019s2_out/

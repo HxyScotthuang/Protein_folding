@@ -1,0 +1,203 @@
+PREFIX=/usr/local
+Unpacking payload ...
+
+  0%|          | 0/57 [00:00<?, ?it/s]
+Extracting : yaml-0.2.5-h516909a_0.tar.bz2:   0%|          | 0/57 [00:00<?, ?it/s]
+Extracting : pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2:   2%|▏         | 1/57 [00:00<00:02, 25.81it/s]
+Extracting : libnghttp2-1.43.0-h812cca2_0.tar.bz2:   4%|▎         | 2/57 [00:00<00:04, 11.58it/s] 
+Extracting : libnghttp2-1.43.0-h812cca2_0.tar.bz2:   5%|▌         | 3/57 [00:00<00:03, 17.33it/s]
+Extracting : libffi-3.3-h58526e2_2.tar.bz2:   5%|▌         | 3/57 [00:00<00:03, 17.33it/s]       
+Extracting : python_abi-3.7-1_cp37m.tar.bz2:   7%|▋         | 4/57 [00:00<00:03, 17.33it/s]
+Extracting : _libgcc_mutex-0.1-conda_forge.tar.bz2:   9%|▉         | 5/57 [00:00<00:03, 17.33it/s]
+Extracting : pycparser-2.20-pyh9f0ad1d_2.tar.bz2:  11%|█         | 6/57 [00:00<00:02, 17.33it/s]  
+Extracting : libgcc-ng-9.3.0-h2828fa1_18.tar.bz2:  12%|█▏        | 7/57 [00:01<00:02, 17.33it/s]
+Extracting : libgcc-ng-9.3.0-h2828fa1_18.tar.bz2:  14%|█▍        | 8/57 [00:01<00:06,  7.94it/s]
+Extracting : libcurl-7.75.0-hc4aaa36_0.tar.bz2:  14%|█▍        | 8/57 [00:01<00:06,  7.94it/s]  
+Extracting : ncurses-6.2-h58526e2_4.tar.bz2:  16%|█▌        | 9/57 [00:01<00:06,  7.94it/s]   
+Extracting : conda-package-handling-1.7.2-py37hb5d75c8_0.tar.bz2:  18%|█▊        | 10/57 [00:01<00:05,  7.94it/s]
+Extracting : bzip2-1.0.8-h7f98852_4.tar.bz2:  19%|█▉        | 11/57 [00:01<00:05,  7.94it/s]                     
+Extracting : mamba-0.8.0-py37h7f483ca_0.tar.bz2:  21%|██        | 12/57 [00:01<00:05,  7.94it/s]
+Extracting : pycosat-0.6.3-py37h5e8e339_1006.tar.bz2:  23%|██▎       | 13/57 [00:01<00:05,  7.94it/s]
+Extracting : lz4-c-1.9.3-h9c3ff4c_0.tar.bz2:  25%|██▍       | 14/57 [00:01<00:05,  7.94it/s]         
+Extracting : pip-21.0.1-pyhd8ed1ab_0.tar.bz2:  26%|██▋       | 15/57 [00:01<00:05,  7.94it/s]
+Extracting : requests-2.25.1-pyhd3deb0d_0.tar.bz2:  28%|██▊       | 16/57 [00:01<00:05,  7.94it/s]
+Extracting : wheel-0.36.2-pyhd3deb0d_0.tar.bz2:  30%|██▉       | 17/57 [00:01<00:05,  7.94it/s]   
+Extracting : cffi-1.14.5-py37hc58025e_0.tar.bz2:  32%|███▏      | 18/57 [00:01<00:04,  7.94it/s]
+Extracting : conda-4.9.2-py37h89c1867_0.tar.bz2:  33%|███▎      | 19/57 [00:01<00:04,  7.94it/s]
+Extracting : libev-4.33-h516909a_1.tar.bz2:  35%|███▌      | 20/57 [00:01<00:04,  7.94it/s]     
+Extracting : tk-8.6.10-h21135ba_1.tar.bz2:  37%|███▋      | 21/57 [00:01<00:04,  7.94it/s] 
+Extracting : idna-2.10-pyh9f0ad1d_0.tar.bz2:  39%|███▊      | 22/57 [00:01<00:04,  7.94it/s]
+Extracting : brotlipy-0.7.0-py37h5e8e339_1001.tar.bz2:  40%|████      | 23/57 [00:01<00:04,  7.94it/s]
+Extracting : ruamel_yaml-0.15.80-py37h5e8e339_1004.tar.bz2:  42%|████▏     | 24/57 [00:01<00:04,  7.94it/s]
+Extracting : readline-8.0-he28a2e2_2.tar.bz2:  44%|████▍     | 25/57 [00:01<00:04,  7.94it/s]              
+Extracting : six-1.15.0-pyh9f0ad1d_0.tar.bz2:  46%|████▌     | 26/57 [00:01<00:03,  7.94it/s]
+Extracting : tqdm-4.59.0-pyhd8ed1ab_0.tar.bz2:  47%|████▋     | 27/57 [00:01<00:03,  7.94it/s]
+Extracting : ca-certificates-2020.12.5-ha878542_0.tar.bz2:  49%|████▉     | 28/57 [00:01<00:03,  7.94it/s]
+Extracting : certifi-2020.12.5-py37h89c1867_1.tar.bz2:  51%|█████     | 29/57 [00:01<00:03,  7.94it/s]    
+Extracting : cryptography-3.4.5-py37h5d9358c_1.tar.bz2:  53%|█████▎    | 30/57 [00:01<00:03,  7.94it/s]
+Extracting : pysocks-1.7.1-py37h89c1867_3.tar.bz2:  54%|█████▍    | 31/57 [00:01<00:03,  7.94it/s]     
+Extracting : openssl-1.1.1j-h7f98852_0.tar.bz2:  56%|█████▌    | 32/57 [00:01<00:03,  7.94it/s]   
+Extracting : xz-5.2.5-h516909a_1.tar.bz2:  58%|█████▊    | 33/57 [00:01<00:03,  7.94it/s]      
+Extracting : libgomp-9.3.0-h2828fa1_18.tar.bz2:  60%|█████▉    | 34/57 [00:01<00:02,  7.94it/s]
+Extracting : icu-68.1-h58526e2_0.tar.bz2:  61%|██████▏   | 35/57 [00:02<00:02,  7.94it/s]      
+Extracting : icu-68.1-h58526e2_0.tar.bz2:  63%|██████▎   | 36/57 [00:02<00:02,  9.88it/s]
+Extracting : reproc-cpp-14.2.1-h58526e2_0.tar.bz2:  63%|██████▎   | 36/57 [00:02<00:02,  9.88it/s]
+Extracting : libssh2-1.9.0-ha56f1ee_6.tar.bz2:  65%|██████▍   | 37/57 [00:02<00:02,  9.88it/s]    
+Extracting : zstd-1.4.9-ha95c52a_0.tar.bz2:  67%|██████▋   | 38/57 [00:02<00:01,  9.88it/s]   
+Extracting : ld_impl_linux-64-2.35.1-hea4e1c9_2.tar.bz2:  68%|██████▊   | 39/57 [00:02<00:01,  9.88it/s]
+Extracting : libxml2-2.9.10-h72842e0_3.tar.bz2:  70%|███████   | 40/57 [00:02<00:01,  9.88it/s]         
+Extracting : libstdcxx-ng-9.3.0-h6de172a_18.tar.bz2:  72%|███████▏  | 41/57 [00:02<00:01,  9.88it/s]
+Extracting : reproc-14.2.1-h36c2ea0_0.tar.bz2:  74%|███████▎  | 42/57 [00:02<00:01,  9.88it/s]      
+Extracting : krb5-1.17.2-h926e7f8_0.tar.bz2:  75%|███████▌  | 43/57 [00:02<00:01,  9.88it/s]  
+Extracting : libarchive-3.5.1-h3f442fb_1.tar.bz2:  77%|███████▋  | 44/57 [00:02<00:01,  9.88it/s]
+Extracting : sqlite-3.34.0-h74cdb3f_0.tar.bz2:  79%|███████▉  | 45/57 [00:02<00:01,  9.88it/s]   
+Extracting : chardet-4.0.0-py37h89c1867_1.tar.bz2:  81%|████████  | 46/57 [00:02<00:01,  9.88it/s]
+Extracting : zlib-1.2.11-h516909a_1010.tar.bz2:  82%|████████▏ | 47/57 [00:02<00:01,  9.88it/s]   
+Extracting : libedit-3.1.20191231-he28a2e2_2.tar.bz2:  84%|████████▍ | 48/57 [00:02<00:00,  9.88it/s]
+Extracting : setuptools-49.6.0-py37h89c1867_3.tar.bz2:  86%|████████▌ | 49/57 [00:02<00:00,  9.88it/s]
+Extracting : _openmp_mutex-4.5-1_gnu.tar.bz2:  88%|████████▊ | 50/57 [00:02<00:00,  9.88it/s]         
+Extracting : python-3.7.10-hffdb5ce_100_cpython.tar.bz2:  89%|████████▉ | 51/57 [00:07<00:00,  9.88it/s]
+Extracting : python-3.7.10-hffdb5ce_100_cpython.tar.bz2:  91%|█████████ | 52/57 [00:07<00:00,  6.03it/s]
+Extracting : urllib3-1.26.3-pyhd8ed1ab_0.tar.bz2:  91%|█████████ | 52/57 [00:07<00:00,  6.03it/s]       
+Extracting : lzo-2.10-h516909a_1000.tar.bz2:  93%|█████████▎| 53/57 [00:07<00:00,  6.03it/s]     
+Extracting : libiconv-1.16-h516909a_0.tar.bz2:  95%|█████████▍| 54/57 [00:07<00:00,  6.03it/s]
+Extracting : c-ares-1.17.1-h7f98852_1.tar.bz2:  96%|█████████▋| 55/57 [00:07<00:00,  6.03it/s]
+Extracting : libsolv-0.7.17-h780b84a_0.tar.bz2:  98%|█████████▊| 56/57 [00:07<00:00,  6.03it/s]
+                                                                                               
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /usr/local
+
+  added / updated specs:
+    - _libgcc_mutex==0.1=conda_forge
+    - _openmp_mutex==4.5=1_gnu
+    - brotlipy==0.7.0=py37h5e8e339_1001
+    - bzip2==1.0.8=h7f98852_4
+    - c-ares==1.17.1=h7f98852_1
+    - ca-certificates==2020.12.5=ha878542_0
+    - certifi==2020.12.5=py37h89c1867_1
+    - cffi==1.14.5=py37hc58025e_0
+    - chardet==4.0.0=py37h89c1867_1
+    - conda-package-handling==1.7.2=py37hb5d75c8_0
+    - conda==4.9.2=py37h89c1867_0
+    - cryptography==3.4.5=py37h5d9358c_1
+    - icu==68.1=h58526e2_0
+    - idna==2.10=pyh9f0ad1d_0
+    - krb5==1.17.2=h926e7f8_0
+    - ld_impl_linux-64==2.35.1=hea4e1c9_2
+    - libarchive==3.5.1=h3f442fb_1
+    - libcurl==7.75.0=hc4aaa36_0
+    - libedit==3.1.20191231=he28a2e2_2
+    - libev==4.33=h516909a_1
+    - libffi==3.3=h58526e2_2
+    - libgcc-ng==9.3.0=h2828fa1_18
+    - libgomp==9.3.0=h2828fa1_18
+    - libiconv==1.16=h516909a_0
+    - libnghttp2==1.43.0=h812cca2_0
+    - libsolv==0.7.17=h780b84a_0
+    - libssh2==1.9.0=ha56f1ee_6
+    - libstdcxx-ng==9.3.0=h6de172a_18
+    - libxml2==2.9.10=h72842e0_3
+    - lz4-c==1.9.3=h9c3ff4c_0
+    - lzo==2.10=h516909a_1000
+    - mamba==0.8.0=py37h7f483ca_0
+    - ncurses==6.2=h58526e2_4
+    - openssl==1.1.1j=h7f98852_0
+    - pip==21.0.1=pyhd8ed1ab_0
+    - pycosat==0.6.3=py37h5e8e339_1006
+    - pycparser==2.20=pyh9f0ad1d_2
+    - pyopenssl==20.0.1=pyhd8ed1ab_0
+    - pysocks==1.7.1=py37h89c1867_3
+    - python==3.7.10=hffdb5ce_100_cpython
+    - python_abi==3.7=1_cp37m
+    - readline==8.0=he28a2e2_2
+    - reproc-cpp==14.2.1=h58526e2_0
+    - reproc==14.2.1=h36c2ea0_0
+    - requests==2.25.1=pyhd3deb0d_0
+    - ruamel_yaml==0.15.80=py37h5e8e339_1004
+    - setuptools==49.6.0=py37h89c1867_3
+    - six==1.15.0=pyh9f0ad1d_0
+    - sqlite==3.34.0=h74cdb3f_0
+    - tk==8.6.10=h21135ba_1
+    - tqdm==4.59.0=pyhd8ed1ab_0
+    - urllib3==1.26.3=pyhd8ed1ab_0
+    - wheel==0.36.2=pyhd3deb0d_0
+    - xz==5.2.5=h516909a_1
+    - yaml==0.2.5=h516909a_0
+    - zlib==1.2.11=h516909a_1010
+    - zstd==1.4.9=ha95c52a_0
+
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
+  _openmp_mutex      conda-forge/linux-64::_openmp_mutex-4.5-1_gnu
+  brotlipy           conda-forge/linux-64::brotlipy-0.7.0-py37h5e8e339_1001
+  bzip2              conda-forge/linux-64::bzip2-1.0.8-h7f98852_4
+  c-ares             conda-forge/linux-64::c-ares-1.17.1-h7f98852_1
+  ca-certificates    conda-forge/linux-64::ca-certificates-2020.12.5-ha878542_0
+  certifi            conda-forge/linux-64::certifi-2020.12.5-py37h89c1867_1
+  cffi               conda-forge/linux-64::cffi-1.14.5-py37hc58025e_0
+  chardet            conda-forge/linux-64::chardet-4.0.0-py37h89c1867_1
+  conda              conda-forge/linux-64::conda-4.9.2-py37h89c1867_0
+  conda-package-han~ conda-forge/linux-64::conda-package-handling-1.7.2-py37hb5d75c8_0
+  cryptography       conda-forge/linux-64::cryptography-3.4.5-py37h5d9358c_1
+  icu                conda-forge/linux-64::icu-68.1-h58526e2_0
+  idna               conda-forge/noarch::idna-2.10-pyh9f0ad1d_0
+  krb5               conda-forge/linux-64::krb5-1.17.2-h926e7f8_0
+  ld_impl_linux-64   conda-forge/linux-64::ld_impl_linux-64-2.35.1-hea4e1c9_2
+  libarchive         conda-forge/linux-64::libarchive-3.5.1-h3f442fb_1
+  libcurl            conda-forge/linux-64::libcurl-7.75.0-hc4aaa36_0
+  libedit            conda-forge/linux-64::libedit-3.1.20191231-he28a2e2_2
+  libev              conda-forge/linux-64::libev-4.33-h516909a_1
+  libffi             conda-forge/linux-64::libffi-3.3-h58526e2_2
+  libgcc-ng          conda-forge/linux-64::libgcc-ng-9.3.0-h2828fa1_18
+  libgomp            conda-forge/linux-64::libgomp-9.3.0-h2828fa1_18
+  libiconv           conda-forge/linux-64::libiconv-1.16-h516909a_0
+  libnghttp2         conda-forge/linux-64::libnghttp2-1.43.0-h812cca2_0
+  libsolv            conda-forge/linux-64::libsolv-0.7.17-h780b84a_0
+  libssh2            conda-forge/linux-64::libssh2-1.9.0-ha56f1ee_6
+  libstdcxx-ng       conda-forge/linux-64::libstdcxx-ng-9.3.0-h6de172a_18
+  libxml2            conda-forge/linux-64::libxml2-2.9.10-h72842e0_3
+  lz4-c              conda-forge/linux-64::lz4-c-1.9.3-h9c3ff4c_0
+  lzo                conda-forge/linux-64::lzo-2.10-h516909a_1000
+  mamba              conda-forge/linux-64::mamba-0.8.0-py37h7f483ca_0
+  ncurses            conda-forge/linux-64::ncurses-6.2-h58526e2_4
+  openssl            conda-forge/linux-64::openssl-1.1.1j-h7f98852_0
+  pip                conda-forge/noarch::pip-21.0.1-pyhd8ed1ab_0
+  pycosat            conda-forge/linux-64::pycosat-0.6.3-py37h5e8e339_1006
+  pycparser          conda-forge/noarch::pycparser-2.20-pyh9f0ad1d_2
+  pyopenssl          conda-forge/noarch::pyopenssl-20.0.1-pyhd8ed1ab_0
+  pysocks            conda-forge/linux-64::pysocks-1.7.1-py37h89c1867_3
+  python             conda-forge/linux-64::python-3.7.10-hffdb5ce_100_cpython
+  python_abi         conda-forge/linux-64::python_abi-3.7-1_cp37m
+  readline           conda-forge/linux-64::readline-8.0-he28a2e2_2
+  reproc             conda-forge/linux-64::reproc-14.2.1-h36c2ea0_0
+  reproc-cpp         conda-forge/linux-64::reproc-cpp-14.2.1-h58526e2_0
+  requests           conda-forge/noarch::requests-2.25.1-pyhd3deb0d_0
+  ruamel_yaml        conda-forge/linux-64::ruamel_yaml-0.15.80-py37h5e8e339_1004
+  setuptools         conda-forge/linux-64::setuptools-49.6.0-py37h89c1867_3
+  six                conda-forge/noarch::six-1.15.0-pyh9f0ad1d_0
+  sqlite             conda-forge/linux-64::sqlite-3.34.0-h74cdb3f_0
+  tk                 conda-forge/linux-64::tk-8.6.10-h21135ba_1
+  tqdm               conda-forge/noarch::tqdm-4.59.0-pyhd8ed1ab_0
+  urllib3            conda-forge/noarch::urllib3-1.26.3-pyhd8ed1ab_0
+  wheel              conda-forge/noarch::wheel-0.36.2-pyhd3deb0d_0
+  xz                 conda-forge/linux-64::xz-5.2.5-h516909a_1
+  yaml               conda-forge/linux-64::yaml-0.2.5-h516909a_0
+  zlib               conda-forge/linux-64::zlib-1.2.11-h516909a_1010
+  zstd               conda-forge/linux-64::zstd-1.4.9-ha95c52a_0
+
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+installation finished.
+WARNING:
+    You currently have a PYTHONPATH environment variable set. This may cause
+    unexpected behavior when running the Python interpreter in Mambaforge-colab.
+    For best results, please verify that your PYTHONPATH only points to
+    directories of packages that are compatible with the Python interpreter
+    in Mambaforge-colab: /usr/local
