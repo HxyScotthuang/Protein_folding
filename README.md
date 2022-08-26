@@ -17,3 +17,5 @@ There are 3 main objects we are trying to do:
 Note: All the ipynb files works only on Google Colab, so it would be the best if it can be recreated on Colab. The path directory are inside each of the ipynb files, so be sure to re-set all of these before actually running.
 
 For further reference on how to re-create alphafold1 pipeline, check out the README file for https://github.com/Urinx/alphafold_pytorch: ReadMe for alphafold pytorch.md
+
+All the original works are done in .ipynb files only, as mentioned above. All the .py scriptes are from other repo.
