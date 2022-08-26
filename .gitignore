@@ -8,3 +8,4 @@ model/*
 **.npy
 test_data/*.npy
 T1019s2_out/
+.*
