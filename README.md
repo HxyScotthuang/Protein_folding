@@ -5,7 +5,7 @@ The works are done by Xingyue Huang and Ruotong Cao
 There are 3 main objects we are trying to do:
 
 1. Create a Neural-CDE model to predict protein-folding. 
-     The details are written in cde-protein-prediction.ipynb, and the relavent features generation are shown in Feature_generation/generate_feature.ipynb
+     The details are written in cde-protein-prediction.ipynb, and the relavent features generation are shown in Feature_generation/generate_feature.ipynb. The inference process are written in playground.ipynb.
 (Unfinished)
 
 2. Attempt to train a signature inverse model that takes in a signature and return the reconstruction of the path.
